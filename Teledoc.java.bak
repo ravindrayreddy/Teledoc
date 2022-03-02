@@ -1,0 +1,6 @@
+public class Teledoc{
+public static void main(String[] args){
+System.out.println("Hello Teledoc");
+
+}
+}
