@@ -1,0 +1,14 @@
+ Volume in drive C is Windows 
+ Volume Serial Number is DE26-9533
+
+ Directory of C:\git-jenkins\java-example
+
+02-03-2022  19:40    <DIR>          .
+02-03-2022  19:40    <DIR>          ..
+02-03-2022  19:40                 0 index.txt
+02-03-2022  19:21               497 readme.txt
+02-03-2022  19:06               902 Teledoc.class
+02-03-2022  18:49               139 Teledoc.java
+02-03-2022  18:42               108 Teledoc.java.bak
+               5 File(s)          1,646 bytes
+               2 Dir(s)  142,569,873,408 bytes free
